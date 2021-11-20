@@ -5,6 +5,4 @@ I appreciate your interest in the Daily Rewards plugin. This is a project origin
 
 Thank you,
 
-RAWRMaD
-
-Halflove
+RAWRMaD, Halflove
